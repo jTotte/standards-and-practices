@@ -43,6 +43,7 @@ Format:
 
 | **Name** | **GitHub** | **Notes** |
 |:---------|:-----------|:----------|
+| Josh Totte | [jTotte](https://github.com/jTotte) | Student, basic understanding of Java. Excited to learn and contribute! |
 | Aaron Chaput | [achaput](https://github.com/achaput) | I know Java. I hoping to learn how to work on a large project. |
 | Aaron Killen | [akillen](https://github.com/akillen) | C#, VB.net enterprise experience. PHP in a past life. Currently learning Ruby and game dev. |
 | Aaron Wilson | [Jazztoken](https://github.com/jazztoken) | Looking to climb past the basics of programming. Learning Python and web development. |
